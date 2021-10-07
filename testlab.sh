@@ -1,4 +1,5 @@
 #This line need to be changed by Мария.
+echo Hey dears
 #Feel free to write something.
 #And this line is also for you.
 #Line Mihail derskiy
