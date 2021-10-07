@@ -9,5 +9,5 @@ echo Hey dears
 echo $(date)
 #
 # And last three lines i'll fill by myself.
-#
+systemctl status sshd | awk '$1=="Active:" {print "Status for sshd service now = " $2, $3}'
 #
