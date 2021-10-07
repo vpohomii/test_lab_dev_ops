@@ -5,7 +5,7 @@
 #
 #
 #Line 7-9 for Андрій
-#
+echo $(date)
 #
 # And last three lines i'll fill by myself.
 #
